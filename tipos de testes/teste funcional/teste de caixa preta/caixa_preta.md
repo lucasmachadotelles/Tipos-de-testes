@@ -1,6 +1,7 @@
 # Caixa preta
 
-O teste de caixa preta é executado tomando-se como base os requisitos e funcionalidades do software. Planejam-se determinados tipos de entrada e define-se quais os resultados esperados após o programa processar aquelas entradas. Em outras palavras, podemos dizer que, ao ser submetido a determinado tipo de entrada, é esperado que o programa produza determinado tipo de saída. Caso isso não ocorra, houve uma situação de defeito.
+O teste de caixa preta é executado tomando-se como base os requisitos e funcionalidades do software. Planejam-se determinados tipos de entrada e define-se quais os resultados esperados após o programa processar aquelas entradas. Em outras palavras, podemos dizer que, ao ser submetido a determinado tipo de entrada, é esperado que o programa produza determinado tipo de saída. Caso isso não ocorra, houve uma situação de defeito. Nesses testes, nós não temos acesso ao código do software, para nós o código do software é uma caixa preta. O propósito desse tipo de teste, é avaliar critérios de aceite, se o que foi definido pela equipe de produtos está presente no software e por aí vai. 
+
 
 Para tratar este tipo de teste de caixa preta, existem técnicas que podem ser usadas e as principais são:
 
